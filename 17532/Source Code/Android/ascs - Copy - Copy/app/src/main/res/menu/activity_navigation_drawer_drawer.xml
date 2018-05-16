@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/predictor"
+            android:icon="@android:drawable/btn_star_big_on"
+            android:title="Rainfall predictor" />
+        <item
+            android:id="@+id/ground"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Groundwater Classifier" />
+        <item
+            android:id="@+id/map"
+            android:icon="@android:drawable/ic_dialog_map"
+            android:title="where to find water" />
+        <item
+            android:id="@+id/bill"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Bill Payment" />
+        <item
+            android:id="@+id/account"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="Account details" />
+    </group>
+
+    <item android:title="Contact">
+        <menu>
+            <item
+                android:id="@+id/chat_bot"
+                android:icon="@android:drawable/sym_action_chat"
+                android:title="Got Problems" />
+        </menu>
+    </item>
+
+</menu>

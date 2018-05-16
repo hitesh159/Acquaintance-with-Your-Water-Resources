@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:mapbox="http://schemas.android.com/apk/res-auto"
+    tools:context="com.example.sarthak.ascs.groundWaterLocations">
+
+
+
+    <com.mapbox.mapboxsdk.maps.MapView
+        android:id="@+id/mapView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        mapbox:mapbox_cameraTargetLat="24.744"
+        mapbox:mapbox_cameraTargetLng="74.294"
+        mapbox:mapbox_cameraTilt="60"
+        mapbox:mapbox_cameraZoom="12"
+        mapbox:mapbox_styleUrl="@string/mapbox_style_outdoors" />
+</RelativeLayout>

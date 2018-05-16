@@ -1,0 +1,76 @@
+,STATE,DISTRICT,TEH_NAME,BLOCK_NAME,LAT,LON,SITE_TYPE,WLCODE,YEAR_OBS,LEVEL,Category
+0,Uttar Pradesh,Varanasi,Baragaon,Baragaon,25.45833333,82.73611111,Anai,Dug Well,2017,3.85,2.0
+1,Uttar Pradesh,Varanasi,Baragaon,Baragaon,25.46388889,82.84722222,Babatpur chaura,Dug Well,2017,7.89,1.0
+2,Uttar Pradesh,Varanasi,Baragaon,Baragaon,25.43777778,82.84777778,Babatpur,Dug Well,2017,12.16,1.0
+3,Uttar Pradesh,Varanasi,Cholapur,Cholapur,25.45,83.08666667,Chobepur,Dug Well,2017,9.75,1.0
+4,Uttar Pradesh,Varanasi,Kashi Vidya Peeth,Kashi Vidya Peeth,25.24583333,83.02222222,Tahipur,Dug Well,2017,2.82,2.0
+5,Uttar Pradesh,Varanasi,Sevapuri,Sevapuri,25.27222222,82.71111111,Thatra,Dug Well,2017,14.81,1.0
+6,Uttar Pradesh,Varanasi,Arajiline,Arajiline,25.27,82.85,Rajatalab1,Dug Well,2017,17.0,1.0
+7,Uttar Pradesh,Varanasi,Kashi Vidya Peeth,Kashi Vidya Peeth,25.3,82.95,Varanasi,Dug Well,2017,9.8,1.0
+8,Uttar Pradesh,Varanasi,Sevapuri,Sevapuri,25.33916667,82.77333333,Kakrahwan,Dug Well,2017,17.7,1.0
+9,Uttar Pradesh,Varanasi,Chirai Gaon,Chirai Gaon,25.36166667,83.075,Barwaon,Dug Well,2017,13.75,1.0
+10,Uttar Pradesh,Varanasi,Chirai Gaon,Chirai Gaon,25.395,83.075,Rustampur,Dug Well,2017,14.44,1.0
+11,Uttar Pradesh,Varanasi,Cholapur,Cholapur,25.46888889,83.00888889,Cholapur1,Dug Well,2017,7.78,1.0
+12,Uttar Pradesh,Varanasi,Arajiline,Arajiline,25.19305556,82.84166667,Jikhan(narsara),Dug Well,2017,10.84,1.0
+13,Uttar Pradesh,Moradabad,Chhajlet,Chhajlet,28.98888889,78.64166667,Matlabpur Pz GWD,Tube Well,2017,9.52,1.0
+14,Uttar Pradesh,Moradabad,Moradabad,Moradabad,28.825,78.78333333,Moradabad Pz GWD,Tube Well,2017,8.72,1.0
+15,Uttar Pradesh,Moradabad,Bahjoi,Bahjoi,28.37,78.68805556,Maukather Pz GWD,Tube Well,2017,12.09,1.0
+16,Uttar Pradesh,Moradabad,Bahjoi,Bahjoi,28.39916667,78.62888889,Bahjoi Pz GWD,Tube Well,2017,11.19,1.0
+17,Uttar Pradesh,Moradabad,Dingarpur,Dingarpur,28.65888889,78.65972222,Mahmudpurmafi Pz GWD,Tube Well,2017,12.75,1.0
+18,Uttar Pradesh,Moradabad,Sambhal,Dingarpur,28.7025,78.6475,Fatehulla Ganj Pz GWD,Tube Well,2017,13.84,1.0
+19,Uttar Pradesh,Moradabad,Moradabad,Moradabad,28.825,78.78333333,Moradabad-Pz,Tube Well,2017,8.75,1.0
+20,Uttar Pradesh,Moradabad,Baniyakhera,Baniyakhera,28.51666667,78.78333333,Chandausi-PZ,Tube Well,2017,15.3,1.0
+21,Uttar Pradesh,Moradabad,Asmauli,Asmauli,28.68333333,78.53333333,Sahapura Sirpura-Pz,Tube Well,2017,14.48,1.0
+22,Uttar Pradesh,Moradabad,Asmauli,Asmauli,28.69805556,78.53222222,Asmauli Pz GWD,Tube Well,2017,17.75,1.0
+23,Uttar Pradesh,Moradabad,Dilari,Dilari,29.1,78.86666667,Fauladpur,Dug Well,2017,3.3,2.0
+24,Uttar Pradesh,Moradabad,Dilari,Dilari,29.10555556,78.72861111,Karanpur Pz GWD,Tube Well,2017,4.0,2.0
+25,Uttar Pradesh,Moradabad,Thakurdwara,Thakurdwara,29.11666667,78.75,Painapur,Dug Well,2017,3.54,2.0
+26,Uttar Pradesh,Moradabad,Thakurdwara,Thakurdwara,29.19166667,78.85,Thakurdwara,Dug Well,2017,2.35,2.0
+27,Uttar Pradesh,Moradabad,Moradabad,Moradabad,28.91166667,78.71666667,Aghwanpur 1,Dug Well,2017,11.92,1.0
+28,Uttar Pradesh,Moradabad,Dingarpur,Dingarpur,28.72111111,78.71611111,Dingarpur Pz GWD,Tube Well,2017,11.6,1.0
+29,Uttar Pradesh,Moradabad,Chhajlet,Chhajlet,28.98888889,78.64166667,Matlabpur Pz GWD,Tube Well,2016,9.66,1.0
+30,Uttar Pradesh,Moradabad,Moradabad,Moradabad,28.825,78.78333333,Moradabad Pz GWD,Tube Well,2016,10.44,1.0
+31,Uttar Pradesh,Moradabad,Bahjoi,Bahjoi,28.39916667,78.62888889,Bahjoi Pz GWD,Tube Well,2016,12.19,1.0
+32,Uttar Pradesh,Moradabad,Dingarpur,Dingarpur,28.65888889,78.65972222,Mahmudpurmafi Pz GWD,Tube Well,2016,11.1,1.0
+33,Uttar Pradesh,Moradabad,Sambhal,Dingarpur,28.7025,78.6475,Fatehulla Ganj Pz GWD,Tube Well,2016,12.58,1.0
+34,Uttar Pradesh,Moradabad,Dingarpur,Dingarpur,28.72111111,78.71611111,Dingarpur Pz GWD,Tube Well,2016,11.09,1.0
+35,Uttar Pradesh,Moradabad,Amroha,Chhajlet,29.0,78.60333333,Amroha,Tube Well,2016,13.28,1.0
+36,Uttar Pradesh,Moradabad,Bilari,Bilari,28.59111111,78.82805556,Chaudhapur Pz GWD,Tube Well,2016,10.41,1.0
+37,Uttar Pradesh,Moradabad,Moradabad,Moradabad,28.825,78.78333333,Moradabad-Pz,Tube Well,2016,12.73,1.0
+38,Uttar Pradesh,Moradabad,Sambhal,Sambhal,28.58333333,78.57083333,Sambhal Pz,Tube Well,2016,5.45,1.0
+39,Uttar Pradesh,Moradabad,Asmauli,Asmauli,28.69805556,78.53222222,Asmauli Pz GWD,Tube Well,2016,15.33,1.0
+40,Uttar Pradesh,Moradabad,Asmauli,Asmauli,28.75416667,78.64305556,Gumsaini Pz GWD,Tube Well,2016,14.38,1.0
+41,Uttar Pradesh,Moradabad,Dingarpur,Moradabad,28.79,78.6925,Ratanpur Kalan Pz GWD,Tube Well,2016,12.53,1.0
+42,Uttar Pradesh,Moradabad,Baniyakhera,Baniyakhera,28.51666667,78.78333333,Chandausi-PZ,Tube Well,2016,13.8,1.0
+43,Uttar Pradesh,Moradabad,Asmauli,Asmauli,28.68333333,78.53333333,Sahapura Sirpura-Pz,Tube Well,2016,15.6,1.0
+44,Uttar Pradesh,Moradabad,Dilari,Dilari,29.1,78.86666667,Fauladpur,Dug Well,2016,12.93,1.0
+45,Uttar Pradesh,Moradabad,Dilari,Dilari,29.10555556,78.72861111,Karanpur Pz GWD,Tube Well,2016,3.21,2.0
+46,Uttar Pradesh,Moradabad,Thakurdwara,Thakurdwara,29.11666667,78.75,Painapur,Dug Well,2016,3.18,2.0
+47,Uttar Pradesh,Moradabad,Thakurdwara,Thakurdwara,29.19166667,78.85,Thakurdwara,Dug Well,2016,4.12,2.0
+48,Uttar Pradesh,Moradabad,Bahjoi,Bahjoi,28.37,78.68805556,Maukather Pz GWD,Tube Well,2016,14.07,1.0
+49,Uttar Pradesh,Sitapur,Machhrehta,Gondlamau,27.37638889,80.60972222,Karauna,Dug Well,2017,13.31,1.0
+50,Uttar Pradesh,Sitapur,Pisawan,Pisawan,27.58194444,80.40388889,Piswan,Dug Well,2017,8.32,1.0
+51,Uttar Pradesh,Sitapur,Mahmudabad,Mahmudabad,27.345,81.16833333,Purwara gosai,Dug Well,2017,3.0,2.0
+52,Uttar Pradesh,Sitapur,Khairabad,Khairabad,27.55,80.7,Sitapur,Dug Well,2017,10.85,1.0
+53,Uttar Pradesh,Sitapur,Sakran,Sakran,27.52083333,81.105,Jahangirabad,Dug Well,2017,3.15,2.0
+54,Uttar Pradesh,Sitapur,Sakran,Sakran,27.555,80.95333333,Biutmani,Dug Well,2017,2.84,2.0
+55,Uttar Pradesh,Sitapur,Rampur Mathura,Rampur Mathura,27.40555556,81.20444444,Madnapur,Dug Well,2017,2.88,2.0
+56,Uttar Pradesh,Sitapur,Biswan,Biswan,27.44444444,81.02833333,Deokalia,Dug Well,2017,7.04,1.0
+57,Uttar Pradesh,Sitapur,Biswan,Biswan,27.51388889,80.89027778,Manpur chowki,Dug Well,2017,4.41,2.0
+58,Uttar Pradesh,Sitapur,Parsendi,Parsendi,27.60833333,80.8125,Dhoudhi,Dug Well,2017,3.43,2.0
+59,Uttar Pradesh,Sitapur,Parsendi,Parsendi,27.65416667,80.73611111,Hargaon,Dug Well,2017,4.42,2.0
+60,Uttar Pradesh,Sitapur,Sakran,Sakran,27.5,81.0,Biswan2,Dug Well,2017,4.68,2.0
+61,Uttar Pradesh,Sitapur,Sakran,Sakran,27.54694444,81.03611111,Sanda,Dug Well,2017,3.65,2.0
+62,Uttar Pradesh,Sitapur,Behta,Behta,27.73888889,81.14888889,Behta,Dug Well,2017,4.42,2.0
+63,Uttar Pradesh,Sitapur,Misrikh,Misrikh,27.43333333,80.53333333,Misrikh1,Dug Well,2017,6.03,1.0
+64,Uttar Pradesh,Sitapur,SIDHAULI,Sidhauli,27.27361111,80.83972222,Sidhauli (GWD PZ ),Tube Well,2017,9.3,1.0
+65,Uttar Pradesh,Sitapur,PAHALA,Pahala,27.385,81.015,Pahla (GWD PZ),Tube Well,2017,7.58,1.0
+66,Uttar Pradesh,Sitapur,RAMPUR MATHURA,Rampur Mathura,27.34888889,81.34583333,Rampur Mathura Pz-GWD,Tube Well,2017,3.58,2.0
+67,Uttar Pradesh,Sitapur,KASMANDA,Kasmanda,27.38333333,80.81861111,Kasmanda (GWD PZ),Tube Well,2017,8.76,1.0
+68,Uttar Pradesh,Sitapur,MACHHREHTA,Machhrehta,27.42194444,80.64194444,MachchretaPz-GWD,Tube Well,2017,8.81,1.0
+69,Uttar Pradesh,Sitapur,MAHOLI,Maholi,27.65194444,80.47694444,Maholi Pz-GWD,Tube Well,2017,8.33,1.0
+70,Uttar Pradesh,Sitapur,LAHARPUR,Laharpur,27.70083333,80.89277778,Laharpur Pz-GWD,Tube Well,2017,8.48,1.0
+71,Uttar Pradesh,Sitapur,MAHMUDABAD,Rampur Mathura,27.37194444,81.23194444,Bahoranpur,Dug Well,2017,4.37,2.0
+72,Uttar Pradesh,Sitapur,AILIYA,Ailiya,27.71805556,80.61111111,Tikra,Dug Well,2017,7.67,1.0
+73,Uttar Pradesh,Sitapur,HARGAON,Hargaon,27.74722222,80.72944444,Shekhwapur,Dug Well,2017,6.25,1.0
+74,Uttar Pradesh,Sitapur,Kasmanda,Kasmanda,27.37666667,80.90472222,Khamaria,Dug Well,2017,3.06,2.0

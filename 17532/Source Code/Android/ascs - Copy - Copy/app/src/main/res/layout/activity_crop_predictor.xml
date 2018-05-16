@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sarthak.ascs.cropPredictor">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Please Select Your Crop"
+        android:textSize="30dp"
+        android:layout_marginLeft="30dp"/>
+    <Spinner
+    android:id="@+id/crops"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:layout_marginTop="60dp"
+    android:background="@android:drawable/btn_dropdown"
+    android:spinnerMode="dropdown" />
+
+    <Spinner
+        android:id="@+id/states"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="150dp"
+        android:layout_alignStart="@+id/crops"
+        android:background="@android:drawable/btn_dropdown"
+        android:spinnerMode="dropdown" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:textSize="20dp" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Precautions"
+        android:textSize="30dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginTop="300dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/textView3" />
+    <TextView
+        android:id="@+id/pre1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="360dp"/>
+    <TextView
+        android:id="@+id/pre2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="400dp"/>
+    <TextView
+        android:id="@+id/pre3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="20dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="440dp"/>
+</RelativeLayout>

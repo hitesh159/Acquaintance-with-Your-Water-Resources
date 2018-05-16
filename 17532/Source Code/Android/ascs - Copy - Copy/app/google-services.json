@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "83158739489",
+    "firebase_url": "https://sihapp-59da9.firebaseio.com",
+    "project_id": "sihapp-59da9",
+    "storage_bucket": "sihapp-59da9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83158739489:android:3a445cfd6f616cfe",
+        "android_client_info": {
+          "package_name": "com.example.sarthak.ascs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83158739489-lt908tterhk8dc4pkidmjdnhtibmdq5u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOtnCk3xc_7Q-4-ojTJwaKiGwO-Cjskvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
